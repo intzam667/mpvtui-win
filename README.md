@@ -25,4 +25,8 @@ Type into Windows search bar: "Edit the system environment variables" <br>
 You have succesfully installed mpvtui to Documents folder. <br>
 Open a new session and type "mpvtui" <br>
 
+# Why not "mpvtui667" but "mpvtui"?
+
+Because Windows binaries are static so I couldn't copy them to another folder with the 667 tag :(
+
 
