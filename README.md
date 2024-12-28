@@ -1,6 +1,6 @@
 # IntZam's MPV TUI, Windows Implementation
 
-![image](https://github.com/user-attachments/assets/49b332a0-8958-4953-a900-0051cb155ee9)
+![399095214-49b332a0-8958-4953-a900-0051cb155ee9](https://github.com/user-attachments/assets/87dd01bf-5aa9-42ac-a962-f437070513bc)
 
 ![test](https://github.com/user-attachments/assets/ed33134d-f713-4ff2-9bfd-1392f539d841)
 
