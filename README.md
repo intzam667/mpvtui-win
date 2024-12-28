@@ -6,6 +6,9 @@
 
 For documentation, refer to the original repo: https://github.com/intzam667/mpvtui/
 
+## NOTE
+Windows version might be a little buggy, especially when renaming videos. I do not plan to work on the Windows implementation since I don't use Windows myself. You can gladly fork and maintain it.
+
 ## Usage
 
 Just download the latest release and run setup batch as administrator.<br>
