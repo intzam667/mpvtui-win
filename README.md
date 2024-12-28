@@ -20,6 +20,6 @@ Type into Windows search bar: "Edit the system environment variables" <br>
 %USERPROFILE%\Documents\mpvtui667 <br>
 
 You have succesfully installed mpvtui to Documents folder. <br>
-Open the terminal and type "mpvtui" <br>
+Open a new session and type "mpvtui" <br>
 
 
